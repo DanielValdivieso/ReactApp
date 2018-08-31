@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name": "Agent Venom",
+        "clicked": false,
+        "image":"https://lastbonus.com/images/mtt/block_131.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Scarlet Spider",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_130.png" 
+    },
+
+    {
+        "id": 3,
+        "name": "Spider-Man 2099",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_132.png"
+
+    },
+
+    {
+        "id": 4,
+        "name": "Electro",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_133.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Iron Man (Hulkbuster)",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_134.png"
+    },
+
+    {
+        "id": 6,
+        "name": "Odin",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_137.png"
+    },
+    
+    
+    {
+        "id": 8,
+        "name": "Hulkling",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_129.png"
+    },
+
+    {
+        "id": 9,
+        "name": "Wiccan",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_128.png"
+    },
+    {
+        "id": 10,
+        "name": "Groot Sapling",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_121.png"
+    },
+    {
+        "id": 11,
+        "name": "Star-Lord (Annihilation",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_118.png"
+    },
+    {
+        "id": 12,
+        "name": "Doctor Strange",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_084.png"
+    },
+
+    {
+        "id": 13,
+        "name": "Mantis",
+        "clicked": false,
+        "image": "https://lastbonus.com/images/mtt/block_120.png"
+    }
+]

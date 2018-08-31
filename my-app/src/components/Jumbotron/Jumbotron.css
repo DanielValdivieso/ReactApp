@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("https://nycdatascience.com/blog/wp-content/uploads/2016/03/marvel.png");
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 65px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #e7283a;
+}
+
+.jumbotron p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
